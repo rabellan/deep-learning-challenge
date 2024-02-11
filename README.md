@@ -31,4 +31,4 @@ The nonprofit foundation Alphabet Soup wants a tool that can help it select the 
     * hidden_nodes_layer2 = 60
     * output_nodes_layer3 = 1
 
-![model]("Resources/Original_model.png")
+![model]("https://github.com/rabellan/deep-learning-challenge/blob/main/Resources/Original_model.png")
